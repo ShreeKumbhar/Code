@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreeKumbhar/Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShreeKumbhar/Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Sorting
 |  |
