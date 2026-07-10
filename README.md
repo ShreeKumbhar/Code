@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreeKumbhar/Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShreeKumbhar/Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
+## Sorting
+|  |
+| ------- |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 <!---LeetCode Topics End-->
