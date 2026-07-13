@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1929-concatenation-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreeKumbhar/Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -40,14 +41,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
+| [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1929-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->
