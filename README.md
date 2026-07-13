@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ShreeKumbhar/Code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
