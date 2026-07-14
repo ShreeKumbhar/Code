@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ShreeKumbhar/Code/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [3163-string-compression-iii](https://github.com/ShreeKumbhar/Code/tree/master/3163-string-compression-iii) |
 <!---LeetCode Topics End-->
