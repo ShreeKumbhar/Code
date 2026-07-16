@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
+| [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1929-concatenation-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
+| [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 ## Enumeration
 |  |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreeKumbhar/Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 <!---LeetCode Topics End-->
