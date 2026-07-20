@@ -41,51 +41,65 @@ class Solution {
     //     return dp[index][target];
     // }
 
-    public static boolean solveTab(int[] nums,int n,int total){
+    // public static boolean solveTab(int[] nums,int n,int total){
 
-        boolean[][] dp=new boolean[n+1][(total / 2) + 1];
-        for (boolean[] i:dp){
-            Arrays.fill(i,false);
-        }
+    //     boolean[][] dp=new boolean[n+1][(total / 2) + 1];
+    //     for (boolean[] i:dp){
+    //         Arrays.fill(i,false);
+    //     }
 
-        for(int i=0;i<=n;i++){
-            dp[i][0]=true;
-        }
+    //     for(int i=0;i<=n;i++){
+    //         dp[i][0]=true;
+    //     }
 
-        for(int index=n-1;index>=0;index--){
-            for(int target=1;target<=total/2;target++){
-                boolean include=false;
-                if(target >= nums[index])
-                    include=dp[index+1][target-nums[index]];
-                boolean exclude=dp[index+1][target];
-                dp[index][target]= include || exclude;
+    //     for(int index=n-1;index>=0;index--){
+    //         for(int target=1;target<=total/2;target++){
+    //             boolean include=false;
+    //             if(target >= nums[index])
+    //                 include=dp[index+1][target-nums[index]];
+    //             boolean exclude=dp[index+1][target];
+    //             dp[index][target]= include || exclude;
+    //         }
+    //     }
+    //     return dp[0][total/2];
+    // }
+
+    // public static boolean solveSO(int[] nums,int n,int total){
+
+    //     boolean[] curr=new boolean[(total / 2) + 1];
+    //     boolean[] next=new boolean[(total / 2) + 1];
+
+    //     curr[0]=true;
+    //     next[0]=true;
+
+    //     for(int index=n-1;index>=0;index--){
+    //         for(int target=1;target<=total/2;target++){
+    //             boolean include=false;
+    //             if(target >= nums[index])
+    //                 include=next[target-nums[index]];
+    //             boolean exclude=next[target];
+    //             curr[target]= include || exclude;
+    //         }
+    //         boolean[] temp=next;
+    //         next=curr;
+    //         curr=temp;
+    //     }
+    //         return next[total/2];
+    // }
+
+    public static boolean solveSO(int[] nums, int total) {
+        int target = total / 2;
+        boolean[] dp = new boolean[target + 1];
+        dp[0] = true;
+
+        for (int num : nums) {
+            for (int sum = target; sum >= num; sum--) {
+                dp[sum] = dp[sum] || dp[sum - num];
             }
         }
-        return dp[0][total/2];
-    }
 
-    public static boolean solveSO(int[] nums,int n,int total){
-
-        boolean[] curr=new boolean[(total / 2) + 1];
-        boolean[] next=new boolean[(total / 2) + 1];
-
-        curr[0]=true;
-        next[0]=true;
-
-        for(int index=n-1;index>=0;index--){
-            for(int target=1;target<=total/2;target++){
-                boolean include=false;
-                if(target >= nums[index])
-                    include=next[target-nums[index]];
-                boolean exclude=next[target];
-                curr[target]= include || exclude;
-            }
-            boolean[] temp=next;
-            next=curr;
-            curr=temp;
-        }
-            return next[total/2];
-    }
+        return dp[target];
+}
 
     public boolean canPartition(int[] nums) {
         int total=0;
@@ -103,6 +117,6 @@ class Solution {
         //     Arrays.fill(i,false);
         // }
         // return solveMem(0,nums,l,target,dp);
-        return solveSO(nums,l,total);
+        return solveSO(nums,total);
     }
 }
