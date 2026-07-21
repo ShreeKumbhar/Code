@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeKumbhar/Code/tree/master/0416-partition-equal-subset-sum) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
