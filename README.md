@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeKumbhar/Code/tree/master/0416-partition-equal-subset-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/ShreeKumbhar/Code/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1260-shift-2d-grid](https://github.com/ShreeKumbhar/Code/tree/master/1260-shift-2d-grid) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ShreeKumbhar/Code/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShreeKumbhar/Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ShreeKumbhar/Code/tree/master/1691-maximum-height-by-stacking-cuboids) |
