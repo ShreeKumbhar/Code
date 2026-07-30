@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ShreeKumbhar/Code/tree/master/0278-first-bad-version) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShreeKumbhar/Code/tree/master/0096-unique-binary-search-trees) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ShreeKumbhar/Code/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
