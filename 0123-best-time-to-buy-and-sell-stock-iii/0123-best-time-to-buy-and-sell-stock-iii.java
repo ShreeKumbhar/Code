@@ -90,6 +90,40 @@ class Solution {
         return dp[0][1][0];
     }
 
+    public static int solveSO(int[] arr){
+
+        int n=arr.length;
+        int[][] curr=new int[2][3];
+        int[][] next=new int[2][3];
+        for(int[] i:curr){
+            Arrays.fill(i,0);
+        }
+        for(int[] i:next){
+            Arrays.fill(i,0);
+        }
+
+        for(int index=n-1;index>=0;index--){
+            for(int buy=0;buy<=1;buy++){
+                for(int limit=1;limit<=2;limit++){
+                    int profit=0;
+                    if(buy==1){
+                        int buyStock=-arr[index]+next[0][limit];
+                        int skip=0+next[1][limit];
+                        profit=Math.max(buyStock,skip);
+                    }
+                    else{
+                        int sell = arr[index] + next[1][limit-1];
+                        int skip = 0 + next[0][limit];
+                        profit=Math.max(sell,skip);
+                    }
+                    curr[buy][limit]=profit;
+                }
+            }
+            next=curr;
+        }
+        return next[1][2];
+    }
+
     public int maxProfit(int[] prices) {
         // return solveRec(prices,0,1,2);
         // int n=prices.length;
@@ -101,6 +135,6 @@ class Solution {
         // }
         // return solveMem(prices,0,1,2,dp);
 
-        return solveTab(prices);
+        return solveSO(prices);
     }
 }
