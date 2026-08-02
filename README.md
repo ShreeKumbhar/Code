@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ShreeKumbhar/Code/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/ShreeKumbhar/Code/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ShreeKumbhar/Code/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ShreeKumbhar/Code/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShreeKumbhar/Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeKumbhar/Code/tree/master/0416-partition-equal-subset-sum) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/ShreeKumbhar/Code/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ShreeKumbhar/Code/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ShreeKumbhar/Code/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
