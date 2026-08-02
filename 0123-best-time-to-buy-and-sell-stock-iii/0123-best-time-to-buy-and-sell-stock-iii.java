@@ -26,37 +26,37 @@ class Solution {
     // }
 
     // Memorization
-    public static int solveMem(int[]arr,int index,int buy,int limit,int[][][] dp){
-        if(index==arr.length){
-            return 0;
-        }
+    // public static int solveMem(int[]arr,int index,int buy,int limit,int[][][] dp){
+    //     if(index==arr.length){
+    //         return 0;
+    //     }
 
-        if(limit==0){
-            return 0;
-        }
+    //     if(limit==0){
+    //         return 0;
+    //     }
 
-        if(dp[index][buy][limit]!=-1){
-            return dp[index][buy][limit];
-        }
+    //     if(dp[index][buy][limit]!=-1){
+    //         return dp[index][buy][limit];
+    //     }
 
-        int profit=0;
-        // buy the stock
-        if(buy==1){
-            // buy
-            int buyStock = -arr[index] + solveMem(arr,index+1,0, limit,dp);
-            int skip = 0 + solveMem(arr, index+1, 1, limit ,dp);
-            profit=Math.max(buyStock,skip);
-        }
-        // sell
-        else{
-            //sell
-            int sell = arr[index] + solveMem(arr, index+1, 1, limit-1, dp);
-            int skip = 0 + solveMem(arr, index+1, 0, limit, dp);
-            profit=Math.max(sell,skip);
-        }
+    //     int profit=0;
+    //     // buy the stock
+    //     if(buy==1){
+    //         // buy
+    //         int buyStock = -arr[index] + solveMem(arr,index+1,0, limit,dp);
+    //         int skip = 0 + solveMem(arr, index+1, 1, limit ,dp);
+    //         profit=Math.max(buyStock,skip);
+    //     }
+    //     // sell
+    //     else{
+    //         //sell
+    //         int sell = arr[index] + solveMem(arr, index+1, 1, limit-1, dp);
+    //         int skip = 0 + solveMem(arr, index+1, 0, limit, dp);
+    //         profit=Math.max(sell,skip);
+    //     }
 
-        return dp[index][buy][limit]=profit;
-    }
+    //     return dp[index][buy][limit]=profit;
+    // }
 
     // Tabulation
     public static int solveTab(int[]arr){
@@ -92,15 +92,15 @@ class Solution {
 
     public int maxProfit(int[] prices) {
         // return solveRec(prices,0,1,2);
-        int n=prices.length;
-        int[][][] dp = new int[n][2][3];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(dp[i][j], -1);
-            }
-        }
-        return solveMem(prices,0,1,2,dp);
+        // int n=prices.length;
+        // int[][][] dp = new int[n][2][3];
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = 0; j < 2; j++) {
+        //         Arrays.fill(dp[i][j], -1);
+        //     }
+        // }
+        // return solveMem(prices,0,1,2,dp);
 
-        // return solveTab(prices);
+        return solveTab(prices);
     }
 }
