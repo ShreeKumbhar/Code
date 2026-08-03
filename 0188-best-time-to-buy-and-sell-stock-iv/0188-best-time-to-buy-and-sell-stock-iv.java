@@ -72,8 +72,34 @@ class Solution {
                 dp[index][operation]=profit;
             }
         }
-
         return dp[0][0];
+    }
+
+    public static int solveSO(int[] arr,int k){
+
+        int n=arr.length;
+        int[] curr=new int[2*k+1];
+        int[] next=new int[2*k+1];
+
+        for(int index=n-1;index>=0;index--){
+            for(int operation=2*k-1;operation>=0;operation--){
+                int profit=0;
+                if(operation%2==0){
+                    int buy=-arr[index]+next[operation+1];
+                    int skip=0+next[operation];
+                    profit=Math.max(buy,skip);
+                }
+                else{
+                    int sell=arr[index]+next[operation+1];
+                    int skip=0+next[operation];
+                    profit=Math.max(sell,skip);
+                }
+                curr[operation]=profit;
+            }
+            next=curr;
+        }
+        return next[0];
+
     }
 
     public int maxProfit(int k, int[] prices) {
@@ -85,6 +111,6 @@ class Solution {
         // }
         // return solveMem(prices,0,0,k,dp);
 
-        return solveTab(prices,k);
+        return solveSO(prices,k);
     }
 }
