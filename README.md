@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShreeKumbhar/Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeKumbhar/Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/ShreeKumbhar/Code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeKumbhar/Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/ShreeKumbhar/Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/ShreeKumbhar/Code/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ShreeKumbhar/Code/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShreeKumbhar/Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreeKumbhar/Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ShreeKumbhar/Code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeKumbhar/Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
