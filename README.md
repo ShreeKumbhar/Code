@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ShreeKumbhar/Code/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/ShreeKumbhar/Code/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
 | [2942-find-words-containing-character](https://github.com/ShreeKumbhar/Code/tree/master/2942-find-words-containing-character) |
 | [3163-string-compression-iii](https://github.com/ShreeKumbhar/Code/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeKumbhar/Code/tree/master/3498-reverse-degree-of-a-string) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
