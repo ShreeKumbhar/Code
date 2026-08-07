@@ -47,36 +47,67 @@ class Solution {
     //     return dp[i][j]=ans;
     // }
 
-    public static int solveTab(String s1,String s2){
+    // public static int solveTab(String s1,String s2){
 
-        int[][] dp=new int[s1.length()+1][s2.length()+1];
-        for(int[] i:dp){
-            Arrays.fill(i,0);
-        }
+    //     int[][] dp=new int[s1.length()+1][s2.length()+1];
+    //     for(int[] i:dp){
+    //         Arrays.fill(i,0);
+    //     }
 
-        for(int j=0;j<s2.length();j++){
-            dp[s1.length()][j]=s2.length()-j;
-        }
-        for(int i=0;i<s1.length();i++){
-            dp[i][s2.length()]=s1.length()-i;
+    //     for(int j=0;j<s2.length();j++){
+    //         dp[s1.length()][j]=s2.length()-j;
+    //     }
+    //     for(int i=0;i<s1.length();i++){
+    //         dp[i][s2.length()]=s1.length()-i;
+    //     }
+
+    //     for(int i=s1.length()-1;i>=0;i--){
+    //         for(int j=s2.length()-1;j>=0;j--){
+    //             int ans=0;
+    //             if(s1.charAt(i)==s2.charAt(j)){
+    //                 ans=dp[i+1][j+1];
+    //             }
+    //             else{
+    //                 int insert=1+dp[i][j+1];
+    //                 int delete=1+dp[i+1][j];
+    //                 int replace=1+dp[i+1][j+1];
+    //                 ans=Math.min(insert,Math.min(delete,replace));
+    //             }
+    //             dp[i][j]=ans;
+    //         }
+    //     }
+    //     return dp[0][0];
+    // }
+
+    public static int solveSO(String s1,String s2){
+
+        int[] curr=new int[s2.length()+1];
+        int[] next=new int[s2.length()+1];
+
+        for(int j=0;j<=s2.length();j++){
+            next[j]=s2.length()-j;
         }
 
         for(int i=s1.length()-1;i>=0;i--){
+            curr[s2.length()] = s1.length() - i;
             for(int j=s2.length()-1;j>=0;j--){
                 int ans=0;
                 if(s1.charAt(i)==s2.charAt(j)){
-                    ans=dp[i+1][j+1];
+                    ans=next[j+1];
                 }
                 else{
-                    int insert=1+dp[i][j+1];
-                    int delete=1+dp[i+1][j];
-                    int replace=1+dp[i+1][j+1];
+                    int insert=1+curr[j+1];
+                    int delete=1+next[j];
+                    int replace=1+next[j+1];
                     ans=Math.min(insert,Math.min(delete,replace));
                 }
-                dp[i][j]=ans;
+                curr[j]=ans;
             }
+            int[] temp=next;
+            next=curr;
+            curr=temp;
         }
-        return dp[0][0];
+        return next[0];
     }
 
     public int minDistance(String word1, String word2) {
@@ -86,7 +117,7 @@ class Solution {
         //     Arrays.fill(i,-1);
         // }
         // return solveMem(word1,word2,0,0,dp);
-        return solveTab(word1,word2);
+        return solveSO(word1,word2);
 
     }
 }
