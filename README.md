@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/ShreeKumbhar/Code/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/ShreeKumbhar/Code/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShreeKumbhar/Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ShreeKumbhar/Code/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/0516-longest-palindromic-subsequence) |
 | [1108-defanging-an-ip-address](https://github.com/ShreeKumbhar/Code/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
