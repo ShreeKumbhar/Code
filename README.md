@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ShreeKumbhar/Code/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
+| [1103-distribute-candies-to-people](https://github.com/ShreeKumbhar/Code/tree/master/1103-distribute-candies-to-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ShreeKumbhar/Code/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShreeKumbhar/Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1103-distribute-candies-to-people](https://github.com/ShreeKumbhar/Code/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/ShreeKumbhar/Code/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeKumbhar/Code/tree/master/3498-reverse-degree-of-a-string) |
