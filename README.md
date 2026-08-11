@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShreeKumbhar/Code/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShreeKumbhar/Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreeKumbhar/Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShreeKumbhar/Code/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShreeKumbhar/Code/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreeKumbhar/Code/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeKumbhar/Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -236,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/ShreeKumbhar/Code/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/ShreeKumbhar/Code/tree/master/1693-daily-leads-and-partners) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
