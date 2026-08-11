@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ShreeKumbhar/Code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2942-find-words-containing-character](https://github.com/ShreeKumbhar/Code/tree/master/2942-find-words-containing-character) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeKumbhar/Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreeKumbhar/Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ShreeKumbhar/Code/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShreeKumbhar/Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeKumbhar/Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ShreeKumbhar/Code/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ShreeKumbhar/Code/tree/master/1710-maximum-units-on-a-truck) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ShreeKumbhar/Code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ShreeKumbhar/Code/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeKumbhar/Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShreeKumbhar/Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreeKumbhar/Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ShreeKumbhar/Code/tree/master/3731-find-missing-elements) |
