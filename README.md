@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/ShreeKumbhar/Code/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
