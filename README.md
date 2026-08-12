@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/ShreeKumbhar/Code/tree/master/0196-delete-duplicate-emails) |
 | [1068-product-sales-analysis-i](https://github.com/ShreeKumbhar/Code/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/ShreeKumbhar/Code/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ShreeKumbhar/Code/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
