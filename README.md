@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreeKumbhar/Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeKumbhar/Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreeKumbhar/Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ShreeKumbhar/Code/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ShreeKumbhar/Code/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
 | [2942-find-words-containing-character](https://github.com/ShreeKumbhar/Code/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreeKumbhar/Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/ShreeKumbhar/Code/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeKumbhar/Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShreeKumbhar/Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreeKumbhar/Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreeKumbhar/Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
