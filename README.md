@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShreeKumbhar/Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreeKumbhar/Code/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ShreeKumbhar/Code/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/ShreeKumbhar/Code/tree/master/0096-unique-binary-search-trees) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreeKumbhar/Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreeKumbhar/Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
