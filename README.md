@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeKumbhar/Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreeKumbhar/Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ShreeKumbhar/Code/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/ShreeKumbhar/Code/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShreeKumbhar/Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeKumbhar/Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ShreeKumbhar/Code/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreeKumbhar/Code/tree/master/0713-subarray-product-less-than-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
+| [3477-fruits-into-baskets-ii](https://github.com/ShreeKumbhar/Code/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeKumbhar/Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/ShreeKumbhar/Code/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/ShreeKumbhar/Code/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1929-concatenation-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/ShreeKumbhar/Code/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeKumbhar/Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeKumbhar/Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/ShreeKumbhar/Code/tree/master/3925-concatenate-array-with-reverse) |
@@ -283,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ShreeKumbhar/Code/tree/master/0713-subarray-product-less-than-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ShreeKumbhar/Code/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ShreeKumbhar/Code/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
