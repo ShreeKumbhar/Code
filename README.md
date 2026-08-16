@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreeKumbhar/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreeKumbhar/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/ShreeKumbhar/Code/tree/master/0575-distribute-candies) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreeKumbhar/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/ShreeKumbhar/Code/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreeKumbhar/Code/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/0516-longest-palindromic-subsequence) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreeKumbhar/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreeKumbhar/Code/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ShreeKumbhar/Code/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreeKumbhar/Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
