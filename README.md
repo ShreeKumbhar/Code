@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShreeKumbhar/Code/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreeKumbhar/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShreeKumbhar/Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreeKumbhar/Code/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreeKumbhar/Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/ShreeKumbhar/Code/tree/master/0575-distribute-candies) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShreeKumbhar/Code/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ShreeKumbhar/Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreeKumbhar/Code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreeKumbhar/Code/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeKumbhar/Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -320,8 +322,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShreeKumbhar/Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreeKumbhar/Code/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShreeKumbhar/Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShreeKumbhar/Code/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
