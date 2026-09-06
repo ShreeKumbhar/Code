@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ShreeKumbhar/Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ShreeKumbhar/Code/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1260-shift-2d-grid](https://github.com/ShreeKumbhar/Code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ShreeKumbhar/Code/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ShreeKumbhar/Code/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
