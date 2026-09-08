@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreeKumbhar/Code/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ShreeKumbhar/Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/ShreeKumbhar/Code/tree/master/0724-find-pivot-index) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/ShreeKumbhar/Code/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ShreeKumbhar/Code/tree/master/0904-fruit-into-baskets) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ShreeKumbhar/Code/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/ShreeKumbhar/Code/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreeKumbhar/Code/tree/master/1004-max-consecutive-ones-iii) |
 ## Segment Tree
 |  |
