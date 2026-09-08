@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/ShreeKumbhar/Code/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ShreeKumbhar/Code/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreeKumbhar/Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ShreeKumbhar/Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/ShreeKumbhar/Code/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -353,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShreeKumbhar/Code/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
