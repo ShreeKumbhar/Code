@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShreeKumbhar/Code/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/ShreeKumbhar/Code/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeKumbhar/Code/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/ShreeKumbhar/Code/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ShreeKumbhar/Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreeKumbhar/Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShreeKumbhar/Code/tree/master/0575-distribute-candies) |
@@ -295,11 +296,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShreeKumbhar/Code/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/ShreeKumbhar/Code/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeKumbhar/Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/ShreeKumbhar/Code/tree/master/0503-next-greater-element-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Longest Common Subsequence
 |  |
