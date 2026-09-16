@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeKumbhar/Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ShreeKumbhar/Code/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreeKumbhar/Code/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2942-find-words-containing-character](https://github.com/ShreeKumbhar/Code/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreeKumbhar/Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/ShreeKumbhar/Code/tree/master/3163-string-compression-iii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ShreeKumbhar/Code/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeKumbhar/Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShreeKumbhar/Code/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
