@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreeKumbhar/Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreeKumbhar/Code/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShreeKumbhar/Code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreeKumbhar/Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreeKumbhar/Code/tree/master/0287-find-the-duplicate-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShreeKumbhar/Code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ShreeKumbhar/Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreeKumbhar/Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreeKumbhar/Code/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
