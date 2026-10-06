@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ShreeKumbhar/Code/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShreeKumbhar/Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ShreeKumbhar/Code/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreeKumbhar/Code/tree/master/1004-max-consecutive-ones-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ShreeKumbhar/Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 | [1103-distribute-candies-to-people](https://github.com/ShreeKumbhar/Code/tree/master/1103-distribute-candies-to-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeKumbhar/Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ShreeKumbhar/Code/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/ShreeKumbhar/Code/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/ShreeKumbhar/Code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShreeKumbhar/Code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ShreeKumbhar/Code/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 | [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreeKumbhar/Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShreeKumbhar/Code/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreeKumbhar/Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShreeKumbhar/Code/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -490,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ShreeKumbhar/Code/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
