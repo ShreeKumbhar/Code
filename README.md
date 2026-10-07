@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/ShreeKumbhar/Code/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreeKumbhar/Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ShreeKumbhar/Code/tree/master/1027-longest-arithmetic-subsequence) |
+| [1046-last-stone-weight](https://github.com/ShreeKumbhar/Code/tree/master/1046-last-stone-weight) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ShreeKumbhar/Code/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ShreeKumbhar/Code/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ShreeKumbhar/Code/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ShreeKumbhar/Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ShreeKumbhar/Code/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreeKumbhar/Code/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/ShreeKumbhar/Code/tree/master/1046-last-stone-weight) |
 | [1388-pizza-with-3n-slices](https://github.com/ShreeKumbhar/Code/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreeKumbhar/Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
