@@ -1,59 +1,62 @@
 class Pair{
-    int freq;
-    char letter;
-    Pair(int freq,char letter){
-        this.freq=freq;
-        this.letter=letter;
+    int frq;
+    char ch;
+    Pair(int frq,char ch){
+        this.frq=frq;
+        this.ch=ch;
     }
 }
 
 class Solution {
     public int leastInterval(char[] tasks, int n) {
         
-        int time = 0;
+        HashMap<Character,Integer> freq = new HashMap<>();
+        HashMap<Character,Integer> free = new HashMap<>();
 
-        HashMap<Character,Integer> map = new HashMap<>();
         for(char ch : tasks){
-            map.put(ch,map.getOrDefault(ch,0)+1);
+            freq.put(ch,freq.getOrDefault(ch,0)+1);
+            free.put(ch,1);
         }
 
         PriorityQueue<Pair> pq = new PriorityQueue<>(
-            (a, b) -> Integer.compare(b.freq, a.freq)
+            (a,b) -> Integer.compare(b.frq,a.frq)
         );
 
-        for(Map.Entry<Character,Integer> entry : map.entrySet()){
+        for(Map.Entry<Character,Integer> entry : freq.entrySet()){
             char ch = entry.getKey();
-            int freq = entry.getValue();
-            Pair curr = new Pair(freq,ch);
+            int value = entry.getValue();
+            Pair curr = new Pair(value,ch);
             pq.offer(curr);
         }
 
+        int seat = 1;
+
         while(!pq.isEmpty()){
-            ArrayList<Pair> temp = new ArrayList<>();
-            int used=0;
-            int cycle = n+1;
-            for(int i=0; i<cycle; i++){
-                if(!pq.isEmpty()){
-                    Pair p = pq.poll();
-                    p.freq--;
-                    temp.add(p);
-                    used++;
+
+            ArrayList<Pair> pulled = new ArrayList<>();
+
+            while(!pq.isEmpty()){
+
+                Pair p = pq.poll();
+                int frq = p.frq;
+                char child = p.ch;
+
+                if(free.get(child) <= seat){
+                    free.put(child, seat + n + 1);
+                    if(frq > 1){
+                        pq.offer(new Pair(frq-1,child));
+                    }
+                    break;
+                }
+                else{
+                    pulled.add(p);
                 }
             }
 
-            for(Pair curr : temp){
-                if(curr.freq > 0){
-                    pq.offer(curr);
-                }
-            }
-
-            if (!pq.isEmpty()) {
-                time += cycle;   
-            } else {
-                time += used; 
-            }
+            pq.addAll(pulled);
+            seat++;
         }
 
-        return time;
+        return seat-1;
     }
 }
