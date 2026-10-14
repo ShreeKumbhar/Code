@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ShreeKumbhar/Code/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShreeKumbhar/Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreeKumbhar/Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShreeKumbhar/Code/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreeKumbhar/Code/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeKumbhar/Code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreeKumbhar/Code/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShreeKumbhar/Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
