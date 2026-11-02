@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeKumbhar/Code/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShreeKumbhar/Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShreeKumbhar/Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/ShreeKumbhar/Code/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ShreeKumbhar/Code/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ShreeKumbhar/Code/tree/master/0525-contiguous-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ShreeKumbhar/Code/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShreeKumbhar/Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShreeKumbhar/Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ShreeKumbhar/Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/ShreeKumbhar/Code/tree/master/0877-stone-game) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreeKumbhar/Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShreeKumbhar/Code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShreeKumbhar/Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/ShreeKumbhar/Code/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/ShreeKumbhar/Code/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeKumbhar/Code/tree/master/0628-maximum-product-of-three-numbers) |
