@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShreeKumbhar/Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShreeKumbhar/Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShreeKumbhar/Code/tree/master/0078-subsets) |
+| [0119-pascals-triangle-ii](https://github.com/ShreeKumbhar/Code/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShreeKumbhar/Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreeKumbhar/Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ShreeKumbhar/Code/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ShreeKumbhar/Code/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/ShreeKumbhar/Code/tree/master/0096-unique-binary-search-trees) |
+| [0119-pascals-triangle-ii](https://github.com/ShreeKumbhar/Code/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ShreeKumbhar/Code/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShreeKumbhar/Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreeKumbhar/Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
